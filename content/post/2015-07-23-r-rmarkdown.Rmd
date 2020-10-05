@@ -5,7 +5,7 @@ date: 'r Sys.Date()'
 categories: ["R"]
 tags: ["R Markdown", "plot", "regression"]
 ---
-
+ finaklly starting the website
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(collapse = TRUE)
 ```
